@@ -2,11 +2,11 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 2,
-  "name": "Leaf Browser",
+  "name": "Skibidi Browser",
   "version": "1.2",
   "author": "Richard Lobo <codingcat@protonmail.com>",
 
-  "description": "The continuation of the project Leaf Browser Alpha.",
+  "description": "i was forced to make this.",
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",
