@@ -2,11 +2,11 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 2,
-  "name": "SkiBrowser",
-  "version": "1",
+  "name": "SkiBrowser Beta",
+  "version": "0.5",
   "author": "MC <contact@gbeef.net>",
 
-  "description": "i was forced to make this.",
+  "description": "Browser for ChromeOS",
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",
