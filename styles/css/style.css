@@ -813,7 +813,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #fff;
+  background-color: #597091;
 }
 @keyframes spin {
   from {
@@ -845,7 +845,7 @@ body {
 }
 #main-container > .inner > .app-left .header {
   display: flex;
-  background-color: #ccc;
+  background-color: #7794bd;
   flex-wrap: nowrap;
   border-bottom: 1px solid #bbb;
   height: 51px;
@@ -947,19 +947,19 @@ body {
 }
 #main-container > .inner > .app-left .switcher .scroll::-webkit-scrollbar {
   width: 15px;
-  background-color: #ddd;
+  background-color: #3b495c;
 }
 #main-container > .inner > .app-left .switcher .scroll::-webkit-scrollbar-thumb {
   border-radius: 8px;
   background: rgba(0, 0, 0, 0.6);
-  border: 3px solid #ddd;
+  border: 3px solid #3b495c;
 }
 #main-container > .inner > .app-left .switcher .scroll::-webkit-scrollbar-thumb::before {
   content: "";
   display: block;
   width: 5px;
   height: 5px;
-  background-color: #f00;
+  background-color: #3b495c;
 }
 #main-container > .inner > .app-left .switcher .scroll .scroll-content .tab-tree .node {
   opacity: 1;
@@ -1100,7 +1100,7 @@ body {
   transform: rotate(90deg);
 }
 #main-container > .inner > .app-left .switcher .scroll .scroll-content .new-tab-button {
-  background-color: #ddd;
+  background-color: #68967b;
   border: 1px solid #ccc;
   padding: 5px 8px;
   font-size: 12px;
@@ -1112,10 +1112,10 @@ body {
   text-align: center;
 }
 #main-container > .inner > .app-left .switcher .scroll .scroll-content .new-tab-button:hover {
-  background-color: #d7d7d7;
+  background-color: #88bf9f;
 }
 #main-container > .inner > .app-left .switcher .scroll .scroll-content .child-button {
-  background-color: #ddd;
+  background-color: #68967b;
   border: 1px solid #ccc;
   padding: 5px 8px;
   font-size: 12px;
@@ -1127,12 +1127,12 @@ body {
   text-align: center;
 }
 #main-container > .inner > .app-left .switcher .scroll .scroll-content .child-button:hover {
-  background-color: #d7d7d7;
+  background-color: #88bf9f;
 }
 #main-container > .inner > .app-right {
   height: 100%;
   flex-grow: 1;
-  background-color: #f3f3f3;
+  background-color: #889dbf;
   position: relative;
 }
 #main-container > .inner > .app-right #welcome {
@@ -1159,7 +1159,7 @@ body {
   height: 0;
   text-align: center;
   font-size: 30px;
-  color: #666;
+  color: #000000;
   opacity: 0;
   transition: opacity 0.5s;
 }
