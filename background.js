@@ -4,7 +4,7 @@ chrome.app.runtime.onLaunched.addListener(function() {
       'width': 1100,
       'height': 800
     },
-  "frame": {color: "#909090"},
+  "frame": {color: "#4d668a"},
   "resizable": true,
   });
 });
